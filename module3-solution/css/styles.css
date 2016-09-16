@@ -1,0 +1,25 @@
+nav.navbar-default {
+  background-color: #7eaee7;
+  height: 70px
+}
+.navbar-toggle {
+  margin-top: 20px;
+}
+.navbar-brand h1 {
+  margin-top: 0px;
+}
+#collapsable-nav {
+  background-color: #cbd6e3;
+  margin: -20px -15px 10px -15px;
+  border: 0px;
+}
+#collapsable-nav li  {
+  border-bottom: 1px solid black;
+}
+#collapsable-nav ul  {
+  margin-bottom: 0px;
+}
+#menu {
+  background-color: #777777;
+  height: 1000px;
+}
